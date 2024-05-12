@@ -1,0 +1,17 @@
+org\dataManager\internet\WebClient.class
+org\dataManager\pojo\Grain.class
+org\dataManager\internet\HTMLWebScraper.class
+org\dataManager\util\ExcelUtility.class
+org\dataManager\util\JsonUtility.class
+org\dataManager\util\DataUtility.class
+org\dataManager\util\ExcelUtility$1.class
+org\dataManager\util\DateTimeUtility$1.class
+org\dataManager\internet\BasicWebScraper.class
+org\dataManager\Main.class
+org\dataManager\internet\JSONWebScraper.class
+org\dataManager\util\FileUtility.class
+org\dataManager\util\CsvUtility.class
+org\dataManager\util\DateTimeUtility.class
+org\dataManager\util\WebUtility.class
+org\dataManager\util\JsonComparer.class
+org\dataManager\util\NumberUtility.class
